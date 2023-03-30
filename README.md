@@ -11,15 +11,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> -->
-    <h1 align="center"></h1>    
-    <img align="center" heigth="30" width="40"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
-    <img align="center" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
                  
    </div>
    
@@ -52,4 +44,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanielCastilhoDIniz}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
