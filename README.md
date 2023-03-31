@@ -40,6 +40,3 @@
 
 
 ### Scheduled studies:
-
-![Snake animation](https://github.com/DanielCastilhoDIniz/DanielCastilhoDIniz/blob/output/github-contribution-grid-snake.yml)
-
