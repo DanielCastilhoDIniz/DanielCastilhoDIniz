@@ -1,10 +1,12 @@
+ 
+ <img src = "banner.gif" width = "325px" align = "right">
  <h3>Hello World!🌱 Welcome to the profile on Github!</h3> 
 <h4> </h4>  
      
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
 
 
-<img src = "banner.gif" width = "325px" align = "right">
+
 <div>
 <table>
     <tr>
