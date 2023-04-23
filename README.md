@@ -21,6 +21,7 @@
 </table>
 
 <hr>
+<br>
 ### Studies focused on:
        
        
