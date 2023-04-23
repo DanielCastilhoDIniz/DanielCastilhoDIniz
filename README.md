@@ -21,8 +21,7 @@
 </table>
 
 <hr>
-<br>
-<h2> Studies focused on:</h2> S
+<h3> Studies focused on:</h3> 
        
        
 
