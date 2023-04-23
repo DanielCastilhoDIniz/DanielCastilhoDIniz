@@ -20,7 +20,7 @@
 </tr>
 </table>
 
-
+<hr>
 ### Studies focused on:
        
        
