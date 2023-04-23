@@ -22,7 +22,7 @@
 
 <hr>
 <br>
-### Studies focused on:
+<h2> Studies focused on:</h2> S
        
        
 
