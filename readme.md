@@ -2,9 +2,9 @@
  <img src = "banner.gif" width = "325px" align = "right">
  <h3>Hello World!🌱 Welcome to the profile on Github!</h3> 
  
-     
+  <hr>  
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
-<hr>
+
 <div>
 <a href="https://github.com/DanielCastilhoDIniz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastilhoDIniz&layout=compact&langs_count=7&theme=onedark"/>
