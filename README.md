@@ -5,9 +5,7 @@
      
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
 <hr>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastilhoDIniz&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+
 
 <hr>
 
@@ -22,6 +20,14 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true" />
 </picture>
+
+
+<a href="https://github.com/DanielCastilhoDIniz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=convoychat" />
+</a>
 
 <h3> Studies focused on:</h3> <br>
 <div style="display: inline_block">
