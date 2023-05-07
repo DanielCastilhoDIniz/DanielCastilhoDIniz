@@ -1,9 +1,11 @@
  
  <img src = "banner.gif" width = "325px" align = "right">
  <h3>Hello World!🌱 Welcome to the profile on Github!</h3> 
-<h4> </h4>  
+ 
      
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
+<hr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=dracula&count_private=true)
 
 <hr>
 <h3> Studies focused on:</h3> <br>
