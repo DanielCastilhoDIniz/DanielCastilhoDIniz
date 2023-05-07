@@ -5,7 +5,7 @@
      
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
 <hr>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=dracula&count_private=true)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=dracula&count_private=true)
 
 <hr>
 <h3> Studies focused on:</h3> <br>
