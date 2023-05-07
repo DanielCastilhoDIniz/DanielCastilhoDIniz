@@ -5,29 +5,17 @@
      
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
 <hr>
-
+<div>
+<a href="https://github.com/DanielCastilhoDIniz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastilhoDIniz&layout=compact&langs_count=7&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
 
 <hr>
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true" />
-</picture>
+ 
 
 
-<a href="https://github.com/DanielCastilhoDIniz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=convoychat" />
-</a>
+
 
 <h3> Studies focused on:</h3> <br>
 <div style="display: inline_block">
@@ -55,3 +43,5 @@
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>            
           
+
+ 
