@@ -17,9 +17,7 @@
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
-</div>        
-
-<br>      
+</div>           
           
 <h3> Second line of study:</h3> <br>
 <div style="display: inline_block">
