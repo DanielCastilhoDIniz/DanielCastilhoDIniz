@@ -7,22 +7,7 @@
 
 
 
-<div>
-<table>
-    <tr>
- 
- <a href="https://github.com/DanielCastilhoDIniz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=convoychat" />
-</a>
-  
-    
-
-</tr>
-</table>
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 <hr>
 <h3> Studies focused on:</h3> 
        
