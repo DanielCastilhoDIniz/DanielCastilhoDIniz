@@ -10,10 +10,13 @@
 <div>
 <table>
     <tr>
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastilhoDIniz&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCastilhoDIniz&repo=convoychat" />
+</a>
   
     
 
