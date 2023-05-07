@@ -10,7 +10,7 @@
 <div>
 <table>
     <tr>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username={DanielCastilhoDIniz}&theme=blue-green"/>
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastilhoDIniz&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCastilhoDIniz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
