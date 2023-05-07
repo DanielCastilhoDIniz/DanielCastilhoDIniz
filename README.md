@@ -5,15 +5,8 @@
      
 <h4>I am Daniel. Here I present some (automatically generated) statistics about my activity on GitHub! </h4>
 
-
-
-![Fraga GitHub stats]([https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"))
 <hr>
-<h3> Studies focused on:</h3> 
-       
-       
-
+<h3> Studies focused on:</h3> <br>
 <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
