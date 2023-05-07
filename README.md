@@ -7,7 +7,8 @@
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats]([https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"))
 <hr>
 <h3> Studies focused on:</h3> 
        
