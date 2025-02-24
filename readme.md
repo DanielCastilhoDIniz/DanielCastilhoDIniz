@@ -40,7 +40,6 @@
 <h3> Scheduled studies:</h3> <br>
 <div style="display: inline_block">
 <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  title="oracle"/>
 </div>            
           
 
