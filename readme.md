@@ -1,12 +1,16 @@
- <img src="banner.gif" width="325px" align="right">
+<img src="banner.gif" width="325px" align="right">
 
-# 👋 Olá, mundo! Bem-vindo ao meu perfil no GitHub! 🌱  
+# 👋 Olá, mundo! Bem-vindo ao meu GitHub 🌱  
 
 ---
 
-## Sobre mim  
-### 👨‍💻 Sou Daniel! Aqui compartilho alguns dados sobre minha atividade no GitHub.
+## 👨‍💻 Sobre mim
+Sou **Daniel**, desenvolvedor com foco em **backend em Python**, **APIs REST** e **manipulação de dados**.  
+Aqui compartilho projetos, estudos aplicados e experimentos técnicos voltados a software robusto e bem estruturado.
 
+---
+
+## 📊 Atividade no GitHub
 <div align="center">
   <a href="https://github.com/DanielCastilhoDIniz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastilhoDIniz&layout=compact&langs_count=7&theme=radical"/>
@@ -16,25 +20,19 @@
 
 ---
 
-## 📚 Estudos focados em:
+## 🧠 Foco técnico principal
 <div style="display: inline_block">
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  </a> 
-
-
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/> 
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js"/>
-  <a href="https://docs.sqlalchemy.org/en/20/" target="_blank">
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy"/>
-  </a>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"/>
 </div>
 
 ---
 
-## 📌 Segunda linha de estudo:
+## 📈 Segunda linha de atuação
 <div style="display: inline_block">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
@@ -44,13 +42,15 @@
 
 ---
 
-🌱 Sempre aprendendo e explorando novas tecnologias! 🚀
+## 🚧 Em desenvolvimento / próximos projetos
+- ✔️ Criação de **APIs REST com Django REST Framework**
+- ✔️ Integração com **PostgreSQL**
+- ✔️ Autenticação e controle de acesso
+- ✔️ Manipulação e análise de dados com Pandas
+- ✔️ Estruturação de projetos backend escaláveis
 
 ---
 
-em breve evidencias diretas de:
-
-* Criações de API em DRF
-* Manipulação de Dados
+🌱 Sempre aprendendo, refatorando e aprofundando fundamentos. 🚀  
 
 
