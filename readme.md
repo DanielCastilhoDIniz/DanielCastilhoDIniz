@@ -1,118 +1,88 @@
-# 👋 Olá, mundo! Bem-vindo ao meu GitHub 🌱
+# Daniel Castilho Diniz
 
-Sou **Daniel Castilho Diniz**, desenvolvedor com foco em **Backend**, atuando principalmente com **Python**, **Django** e **APIs REST**.  
-Tenho formação em **Física** e experiência sólida em **educação**, o que influencia diretamente minha forma de programar: organização, clareza, fundamentos fortes e regras bem definidas.
+Desenvolvedor Backend com foco em **Python**, **Django**, **modelagem de dominio** e **arquitetura de software**.
 
-Aqui você encontrará **projetos de estudo aplicados**, experimentos técnicos e sistemas pensados com atenção à **arquitetura**, **modelagem de domínio** e **boas práticas**.
+Atualmente construo um **backend SaaS para gestao educacional** com foco em regras de negocio explicitas, separacao de camadas, auditabilidade e evolucao sustentavel do sistema. Meu objetivo e transformar dominios complexos em software previsivel, legivel e facil de manter.
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Licenciado em Física e Tecnólogo em Desenvolvimento Backend  
-- 🧠 Perfil analítico, orientado a regras de negócio e integridade de dados  
-- 🧩 Interesse em **arquitetura limpa**, **DDD**, **APIs bem estruturadas**  
-- 📚 Experiência em ensino que se reflete em código legível e bem organizado  
-- 🚀 Em transição e consolidação de carreira como desenvolvedor backend  
+Minha formacao em **Fisica** e minha experiencia em **educacao** influenciam diretamente a forma como desenvolvo: penso em estrutura, clareza, consistencia e fundamentos antes de pensar em volume de codigo.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Sobre mim
 
-### Linguagens
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</div>
+- Desenvolvedor backend orientado a regras de negocio, integridade de dados e contratos estaveis
+- Experiencia com projetos em **Python**, **Django**, **PostgreSQL**, **Pytest**, **Ruff** e **Pyright**
+- Interesse forte em **DDD**, **Clean Architecture**, **APIs bem modeladas** e **design de software de longo prazo**
+- Perfil analitico, organizado e confortavel com documentacao tecnica, decisoes arquiteturais e refatoracao orientada a qualidade
+- Buscando oportunidades para atuar com **backend Python/Django**, construcao de APIs e arquitetura de sistemas
 
 ---
 
-### Backend & Frameworks
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
-</div>
+## O que voce vai encontrar aqui
+
+Projetos voltados para backend com atencao especial a:
+
+- modelagem de dominio
+- regras de negocio explicitas
+- testes automatizados
+- documentacao arquitetural
+- qualidade de codigo
+- evolucao incremental com responsabilidade tecnica
 
 ---
 
-### Bancos de Dados
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
-</div>
+## Projeto em destaque
+
+### Educational Management SaaS Backend
+
+Backend para um sistema educacional multi-tenant, estruturado em torno de dominio, contratos de aplicacao estaveis e decisoes arquiteturais documentadas.
+
+**O que esse projeto demonstra na pratica:**
+
+- modelagem rica de dominio para o ciclo de vida de matricula e usuario
+- separacao entre **dominio**, **aplicacao** e **infraestrutura**
+- uso de **state machines**, **domain events** e **value objects**
+- persistencia com **concorrencia otimista**
+- historico **append-only** de transicoes para rastreabilidade e auditoria
+- documentacao arquitetural com **32 ADRs**
+- base documental extensa com **160 arquivos em `docs/`**
+- cobertura de regras com **138 testes automatizados**
+
+**Stack atual do repositorio:**
+
+- Python 3.12+
+- Django 5
+- PostgreSQL
+- Pytest
+- Ruff
+- Pyright
+
+**Em evolucao tecnica:**
+
+- Docker para ambiente reproduzivel e empacotamento da aplicacao
+- CI/CD e quality gates para automacao de validacao e entrega
+- Observabilidade e trilhas operacionais para sistemas de maior porte
+- Arquitetura orientada a eventos e processamento assincrono conforme o dominio evolui
+
+Repositorio: **https://github.com/DanielCastilhoDIniz/Educational-Management**
 
 ---
 
-### Dados & Computação Científica
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-</div>
+## Diferenciais que levo para os projetos
+
+- Traduzo regras complexas em fluxos previsiveis e bem nomeados
+- Tenho cuidado com contratos, estados, erros e consistencia do sistema
+- Valorizo documentacao util, nao decorativa
+- Gosto de escrever codigo que continue compreensivel meses depois
 
 ---
 
-## 🚧 Em desenvolvimento / próximos projetos
+## Contato
 
-- ✔️ Aplicações web com **Django**
-- ✔️ **APIs REST** com foco em integridade e clareza de contratos
-- ✔️ Autenticação, autorização e controle de acesso
-- ✔️ Modelagem de domínio e regras de negócio
-- ✔️ Integração backend–frontend
-- ✔️ Projetos de análise e manipulação de dados
-- ✔️ Arquitetura backend robusta e evolutiva
+- Email: **danielcastilhodiniz@gmail.com**
+- YouTube: **https://youtube.com/@DanielCastilhoDiniz**
+- Lattes: **http://lattes.cnpq.br/7787815557262914**
 
 ---
 
-## 🌱 Filosofia de aprendizado
-
-> Aprender fazendo, refatorando e entendendo o *porquê* das decisões técnicas.  
-> Código é comunicação — primeiro com pessoas, depois com máquinas.
-
-
----
-
-## ⭐ Featured Projects
-
-### 🎓 Educational Management System (Backend)
-Sistema backend para gestão educacional, com foco em **modelagem de domínio**, **regras de negócio explícitas** e **APIs REST bem definidas**.
-
-**Principais aspectos técnicos:**
-- Python & Django REST Framework
-- Modelagem de domínio inspirada em DDD
-- Separação clara entre domínio, aplicação e infraestrutura
-- Regras de negócio independentes de framework
-- Autenticação, papéis e controle de acesso
-
-🔗 Repositório: https://github.com/DanielCastilhoDIniz/Educational-Management
-
----
-
-### 🔐 REST API with Authentication & Permissions
-API REST desenvolvida para estudo aprofundado de **autenticação**, **autorização** e **segurança em APIs**.
-
-**Principais aspectos técnicos:**
-- Django REST Framework
-- Autenticação baseada em tokens
-- Controle de permissões por papel
-- Validações e integridade de dados
-- Boas práticas de serialização e versionamento
-
-🔗 Repositório: https://github.com/DanielCastilhoDIniz/Educational-Management
-
----
-
-## 📫 Contato & Conteúdo
-
-- 📧 Email: **danielcastilhodiniz@gmail.com**
-- 🎥 YouTube: https://youtube.com/@DanielCastilhoDiniz  
-- 📄 Lattes: http://lattes.cnpq.br/7787815557262914  
-
----
-
-
-
-🚀 **Sempre aprendendo, aprofundando fundamentos e evoluindo sistemas com responsabilidade técnica.**
+**Interesse atual:** oportunidades em backend com Python/Django, APIs, modelagem de dominio, arquitetura de software e sistemas com regras de negocio relevantes.
